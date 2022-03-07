@@ -21,13 +21,21 @@ The application has three components that work together to provide an easy-going
 |
 
 🟠 Deliver the full system in beta
+
 |
+
 🟠 Refactor and cleanup existing code
+
 |
+
 🟠 Address major bugs if reported
+
 |
+
 🟠 Add custom variable replacement
+
 |
+
 🟠 Add basic template creator
 
 ### Pull it ↘️
