@@ -17,7 +17,9 @@ The application has three components that work together to provide an easy-going
 
 #### Roadmap
 ✅ Project start
+
 |
+
 🟠 Deliver the full system in beta
 |
 🟠 Refactor and cleanup existing code
