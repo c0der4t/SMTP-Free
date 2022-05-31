@@ -21,6 +21,7 @@ namespace SMTP_Free_frontend
             //Default location is in the settings.ini file in current directory
             GetUniqueID();
             LoadSettings();
+
         }
 
         private void GetUniqueID()

@@ -3,9 +3,9 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Windows.Forms;
 
-namespace SMTP_Free_frontend
+namespace Encryption
 {
-    public static class _encryption
+    public class Class1
     {
 
         public static byte[] EncryptString(string RawValue, string Salt)
